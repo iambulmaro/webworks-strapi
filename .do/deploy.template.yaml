@@ -4,7 +4,7 @@ spec:
     - name: web
       git:
         branch: master
-        repo_clone_url: https://github.com/do-community/blog-strapi.git
+        repo_clone_url: https://github.com/iambulmaro/webworks-strapi.git
       envs:
         - key: STRAPI_URL
           value: ${APP_URL}/api
