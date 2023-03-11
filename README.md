@@ -9,7 +9,7 @@ This is the backend repo for creating the Strapi API. The overall structure of t
 
 ## Instructions to Deploy to App Platform
 
-[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/iambulmaro/webworks-strapi.git)
+[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/iambulmaro/webworks-strapi/tree/master)
 
 You can use the Deploy to DigitalOcean button to deploy this repo directly to App Platform.
 
